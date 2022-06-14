@@ -1,3 +1,3 @@
 Hello world! I'm Mak and I'm a Software Engineer.
 
-Here you'll find all the source code to the projects I create.
+Here you'll find all the source code to the projects I develop.
