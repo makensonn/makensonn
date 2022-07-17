@@ -1,3 +1,3 @@
-Hello world! I'm Makenson and I'm a Software Engineer.
+Hello World! 👋, I'm Makenson.
 
-Here you'll find all the source code to the projects I develop and contribute to.
+I enjoy writing code and love the process of developing websites and apps.
