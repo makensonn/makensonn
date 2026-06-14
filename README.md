@@ -1,96 +1,41 @@
-# 👋 Hi, I'm Mak
+# Makenson Noel
 
----
+Software Engineer focused on backend development, systems integration, and automation.
 
-## 🚀 Software Engineer
+I build software that connects systems, streamlines operations, and improves how organizations work with data. My experience includes designing API integrations, developing backend services, building internal tools, and delivering automation solutions that reduce manual effort and improve operational efficiency.
 
-I design and build **backend systems, APIs, and automation pipelines** that connect business-critical platforms and eliminate manual work.
+## Technical Focus
 
-Currently working as a **Software Engineer at The Driscoll Firm**, where I own system integrations across legal, CRM, and marketing platforms — turning complex workflows into scalable, automated systems.
+* Backend Development
+* API Design & Integrations
+* Event-Driven Systems
+* Data Pipelines & Automation
+* Database Design & SQL
+* Analytics & Reporting
 
----
+## Technologies
 
-## ⚙️ What I Do
+**Languages:** Python, TypeScript, JavaScript, SQL, C++, Java
 
-- 🔗 Build **API integrations & webhook pipelines**
-- ⚡ Design **event-driven systems & automation workflows**
-- 📊 Develop **data pipelines & analytics dashboards**
-- 🧠 Solve real business problems with scalable backend solutions
-- 🏗️ Bridge the gap between **operations and engineering**
+**Backend:** Node.js, REST APIs, Webhooks, PostgreSQL, System Integrations
 
----
+**Frontend:** React, TypeScript, HTML, CSS
 
-## 🧰 Tech Stack
+**Tools:** Git, Docker, Postman, GitHub Actions
 
-**Languages**
-- Python, TypeScript, JavaScript (Node.js), SQL
+**Automation:** OpenAI API, Claude API, Zapier, Power Automate
 
-**Backend & Systems**
-- REST APIs, Webhooks, Event-Driven Architecture  
-- System Integrations, Data Pipelines, Automation
+## Professional Background
 
-**Databases**
-- PostgreSQL, Data Modeling, Query Optimization
+Currently focused on building backend systems, integrations, and workflow automation solutions. Previous experience includes software development, technical product management, and freelance web development.
 
-**Frontend (when needed)**
-- React, Vite, HTML, CSS
+## Education
 
-**Tools & Platforms**
-- Git, Postman, Zapier, Power Automate, Make  
-- Neos, Lawmatics, Filevine, Lead Docket, CaseOpp
+Bachelor of Science in Computer Science
+Florida Atlantic University
 
----
+## Contact
 
-## 🏗️ What I've Built
-
-### 🔄 End-to-End Lead Automation System
-- Integrated **Neos, Lawmatics, Filevine, and Lead Docket**
-- Built webhook pipelines for real-time data sync
-- Reduced manual processing by **60–80%**
-
----
-
-### 📊 Internal Analytics Dashboard
-- Built dashboards using **TypeScript + SQL**
-- Tracks lead flow, conversion rates, and KPIs
-- Reduced reporting time by **50%**
-
----
-
-### 📄 Document Automation System
-- Automated generation of **1,000+ client documents**
-- Eliminated manual entry and saved **100+ hours**
-
----
-
-### 🧹 Data Normalization & Deduplication Engine
-- Reduced duplicate records by **30–50%**
-- Improved CRM data integrity across systems
-
----
-
-## 🎓 Background
-
-- **B.S. in Computer Science** – Florida Atlantic University  
-- Experience across **software engineering, data, and system integration**
-
----
-
-## 📈 What I'm Focused On
-
-- Backend Engineering
-- System Design & Architecture
-- Scalable Integrations
-- Automation & Data Systems
-
----
-
-## 📬 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makenson-noel/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:makensoninoel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://www.makenson.com/)
-
----
-
-⭐ **I build systems that save time, scale operations, and drive real business impact.**
+* LinkedIn: linkedin.com/in/makenson-noel
+* Portfolio: makenson.com
+* Email: [makensoninoel@gmail.com](mailto:makensoninoel@gmail.com)
