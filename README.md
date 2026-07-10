@@ -1,8 +1,8 @@
 # Makenson Noel
 
-Software Engineer focused on backend development, systems integration, and automation.
+Software Engineer specializing in full-stack development, systems integration, and automation.
 
-I build software that connects systems, streamlines operations, and improves how organizations work with data. My experience includes designing API integrations, developing backend services, building internal tools, and delivering automation solutions that reduce manual effort and improve operational efficiency.
+I create reliable applications and connected systems that simplify complex workflows. My experience includes building responsive interfaces, backend services, API integrations, internal tools, and automation solutions that improve data visibility, reduce manual work, and help organizations operate more efficiently.
 
 ## Technical Focus
 
