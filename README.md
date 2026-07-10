@@ -27,7 +27,7 @@ I build software that connects systems, streamlines operations, and improves how
 
 ## Professional Background
 
-Currently focused on building backend systems, integrations, and workflow automation solutions. Previous experience includes software development, technical product management, and freelance web development.
+Software Developer @ The Driscoll Firm
 
 ## Education
 
