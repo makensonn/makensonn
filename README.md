@@ -32,6 +32,7 @@ Software Developer @ The Driscoll Firm
 ## Education
 
 Bachelor of Science in Computer Science
+
 Florida Atlantic University
 
 ## Contact
