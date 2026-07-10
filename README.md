@@ -15,7 +15,7 @@ I build software that connects systems, streamlines operations, and improves how
 
 ## Technologies
 
-**Languages:** Python, TypeScript, JavaScript, SQL, C++, Java
+**Languages:** TypeScript, JavaScript, Python, SQL, C++, Java
 
 **Backend:** Node.js, REST APIs, Webhooks, PostgreSQL, System Integrations
 
