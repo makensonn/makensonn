@@ -1,4 +1,4 @@
-# Makenson Noel
+# MAKENSON NOEL
 
 Software Engineer specializing in full-stack development, systems integration, and automation.
 
