@@ -37,6 +37,6 @@ Florida Atlantic University
 
 ## Contact
 
-* LinkedIn: linkedin.com/in/makenson-noel
+* LinkedIn: linkedin.com/in/makensonn
 * Portfolio: makenson.dev
 * Email: [makensoninoel@gmail.com](mailto:makensoninoel@gmail.com)
