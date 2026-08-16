@@ -4,30 +4,19 @@ Software Engineer specializing in full-stack development, systems integration, a
 
 I create reliable applications and connected systems that simplify complex workflows. My experience includes building responsive interfaces, backend services, API integrations, internal tools, and automation solutions that improve data visibility, reduce manual work, and help organizations operate more efficiently.
 
-## Technical Focus
-
-* Backend Development
-* API Design & Integrations
-* Event-Driven Systems
-* Data Pipelines & Automation
-* Database Design & SQL
-* Analytics & Reporting
-
 ## Technologies
 
-**Languages:** TypeScript, JavaScript, Python, SQL, C++, Java
+**Languages:** Python, Java, C/C++, SQL (Postgres), JavaScript, HTML/CSS, R
 
-**Backend:** Node.js, REST APIs, Webhooks, PostgreSQL, System Integrations
+**Frameworks:** React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI
 
-**Frontend:** React, TypeScript, HTML, CSS
+**Developer Tools:** OpenAPI, Git, Docker, TravisCI, Google Cloud Platform, VS Code, Visual Studio
 
-**Tools:** Git, Docker, Postman, GitHub Actions
-
-**Automation:** OpenAI API, Claude API, Zapier, Power Automate
+**Libraries:** pandas, NumPy, Matplotlib, OpenCV
 
 ## Professional Background
 
-Software Developer @ The Driscoll Firm
+Software Engineer @ The Driscoll Firm
 
 ## Education
 
@@ -39,4 +28,3 @@ Florida Atlantic University
 
 * LinkedIn: linkedin.com/in/makensonn
 * Portfolio: makenson.dev
-* Email: [makensoninoel@gmail.com](mailto:makensoninoel@gmail.com)
