@@ -14,10 +14,6 @@ I create reliable applications and connected systems that simplify complex workf
 
 **Libraries:** pandas, NumPy, Matplotlib, OpenCV
 
-## Professional Background
-
-Software Engineer @ The Driscoll Firm
-
 ## Education
 
 Bachelor of Science in Computer Science
