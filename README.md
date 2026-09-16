@@ -6,7 +6,7 @@ I create reliable applications and connected systems that simplify complex workf
 
 ## Technologies
 
-**Languages:** Python, Java, C/C++, SQL (Postgres), JavaScript, HTML/CSS, R
+**Languages:** TypeScript, JavaScript, Python, SQL
 
 **Frameworks:** React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI
 
